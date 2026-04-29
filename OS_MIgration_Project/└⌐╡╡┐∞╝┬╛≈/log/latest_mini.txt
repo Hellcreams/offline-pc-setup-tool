@@ -1,0 +1,8 @@
+HKEY_LOCAL_MACHINE\LOCAL_REG\ControlSet001\Services\Tcpip\Parameters\Interfaces\{31d118ef-64b6-4567-a53d-0ffe335c42ff}
+    NameServer    REG_SZ    12.2.0.120,11.2.0.116
+    IPAddress    REG_MULTI_SZ    38.10.11.1
+    SubnetMask    REG_MULTI_SZ    255.255.255.0
+    DefaultGateway    REG_MULTI_SZ    38.10.11.6
+    DefaultGatewayMetric    REG_MULTI_SZ    0
+HKEY_LOCAL_MACHINE\LOCAL_REG\ControlSet001\Services\Tcpip\Parameters\Interfaces\{9f1a5ff0-8cce-45ab-9c04-8c9a5697deda}
+    NameServer    REG_SZ    
