@@ -1,0 +1,5 @@
+HKEY_LOCAL_MACHINE\LOCAL_REG\ControlSet001\Services\Tcpip\Parameters\Interfaces\{626e18e4-6b08-4cb8-9332-554c0d449333}
+    NameServer    REG_SZ    
+HKEY_LOCAL_MACHINE\LOCAL_REG\ControlSet001\Services\Tcpip\Parameters\Interfaces\{ae3e3de1-4ea7-11f1-8e85-806e6f6e6963}
+HKEY_LOCAL_MACHINE\LOCAL_REG\ControlSet001\Services\Tcpip\Parameters\Interfaces\{ffdbbbcd-532e-4a63-a30a-9c4b1c852687}
+    NameServer    REG_SZ    

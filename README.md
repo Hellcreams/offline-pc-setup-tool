@@ -29,3 +29,15 @@
 * UX와 입력 요구사항 감소를 통한 일반 사용자 직접 설정 부담 완화
 ### 비고
 * 이 스크립트는 특정 내부망 환경에 맞춰 제작되었습니다.
+
+## 3. 참고사항
+* 2026.4.15 ~ 2026.5.14 간 진행되었습니다.
+* 실제 배포를 목적으로 진행되었으나, 아래와 같은 이유로 중단되었습니다.
+	* 폐쇄망 환경 특성상 사용자 및 운영 인원과의 원활한 소통이 어려울 것으로 예상되며, 보안상의 이유로 피드백 수집에도 제한이 있었습니다.  
+	* 자동화 도구 자체는 구현되었으나, 실제 배포판에서는 sysprep에 대한 동작 원리, 안정적인 배포판 설계법 등 사전 이해가 일정 수준 이상 요구되었습니다.
+
+## 4. 구현영상
+* [wim 파일 구성 전 sysprep 설정](https://www.youtube.com/watch?v=6Ymp8810S4c)
+* [full_reset.bat 프로그램 실행 예시](https://www.youtube.com/watch?v=zpvjCqky4t4)
+* [mini_reset.bat 프로그램 실행 예시](https://www.youtube.com/watch?v=gcPZxnklz-w)
+* [IP_Setting 실행 예시](https://www.youtube.com/watch?v=G5qk3xpP-gA)
