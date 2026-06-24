@@ -12,6 +12,7 @@
 	* 전체 초기화 방식 (full_reset.bat) : 하드 하나를 초기화하고, 필요한 파티션 (부팅 파티션, OS 파티션, 보조 파티션)을 자동으로 분할하여 설정합니다.
 	* 일부 초기화 방식 (mini_reset.bat) : OS/부팅 파티션만을 포맷하여 빠르게 설치합니다.
 * 네트워크 인터페이스에 저장된 고정 IPv4 정보를 초기화 전 별도 파일에 저장합니다.
+* [순서도](OS_MIgration_Project/Windows_Setup/flowchart.svg)
 
 ### 효과
 * WinNTSetup을 활용하여, 필요 자원 감소 (GHOST64 대비, WIN10 기본 OS 기준)
@@ -21,7 +22,6 @@
     4) 작업 후 후속 조치 건수 감소 (약 50% -> <5%) 
 * 작업 중 특정 컴퓨터에게 부여된 고정 IP 유실 가능성 완화
 * 필요한 정보를 미리 알려줌으로써 생기는 작업 중 실수 감소
-* [순서도](OS_MIgration_Project/Windows_Setup/flowchart.svg)
 ## 2. IP_Setting.bat / 간소화된 IP 할당
 ### 기능
 * 일반 사용자도 쉽게 사용할 수 있는 IP 설정 UX를 제공합니다.
