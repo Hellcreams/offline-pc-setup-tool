@@ -40,6 +40,6 @@
 
 ## 4. 구현영상
 * [wim 파일 구성 전 sysprep 설정](https://www.youtube.com/watch?v=6Ymp8810S4c)
-* [full_reset.bat 프로그램 실행 예시](https://www.youtube.com/watch?v=zpvjCqky4t4)
-* [mini_reset.bat 프로그램 실행 예시](https://www.youtube.com/watch?v=gcPZxnklz-w)
+* [full_reset.bat 프로그램 실행 예시 (자막)](https://www.youtube.com/watch?v=zpvjCqky4t4)
+* [mini_reset.bat 프로그램 실행 예시 (자막)](https://www.youtube.com/watch?v=gcPZxnklz-w)
 * [IP_Setting 실행 예시](https://www.youtube.com/watch?v=G5qk3xpP-gA)
